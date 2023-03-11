@@ -1,0 +1,26 @@
+Enter number of townships: 2
+
+Township 1:
+Enter number of houses: 1
+
+House 1:
+Enter number of Victorian style halls: 1
+Enter number of standard rooms: 2
+Enter number of roof bed rooms: 3
+
+Case 1: 69.00 hours, 11.50 litres of accent colour, 34.50 litres of regular colour
+
+Township 2:
+Enter number of houses: 2
+
+House 1:
+Enter number of Victorian style halls: 2
+Enter number of standard rooms: 2
+Enter number of roof bed rooms: 1
+
+House 2:
+Enter number of Victorian style halls: 1
+Enter number of standard rooms: 2
+Enter number of roof bed rooms: 4
+
+Case 2: 147.00 hours, 24.50 litres of accent colour, 73.50 litres of regular colour
